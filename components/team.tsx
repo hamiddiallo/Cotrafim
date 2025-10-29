@@ -12,14 +12,14 @@ export default function Team() {
       image: "/professional-man-portrait.png",
     },
     {
-      name: "Fatima Traoré",
+      name: "Fatimatou Diallo",
       role: "Directrice Opérations",
       specialty: "Gestion de Projets",
       image: "/professional-woman-portrait.png",
     },
     {
-      name: "Mohamed Sow",
-      role: "Directeur Technique",
+      name: "Hamid Diallo",
+      role: "Informaticien de l'Entreprise",
       specialty: "BTP & Infrastructure",
       image: "/professional-man-portrait.png",
     },
